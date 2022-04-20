@@ -1,2 +1,1 @@
-# Operating_System
-All Operating Systems Projects
+# Compress Picture by using Vector Quantization
